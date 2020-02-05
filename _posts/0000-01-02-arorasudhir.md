@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to @arorasudhir's slide!"
 ---
 
-Caption here
+Luchador Cat
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
