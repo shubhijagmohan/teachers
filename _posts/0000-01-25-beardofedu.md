@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "The Stomp - A New Dance Move!"
 ---
 
-Caption here
+Crushing my contribution graph!
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
