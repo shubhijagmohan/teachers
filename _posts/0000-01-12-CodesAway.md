@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to @CodesAway slide!"
 ---
 
-Caption here
+Rainbow blue. Love the eyes! Not a unicorn.
 
 ![cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
 {: .center}
