@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Up to no good!!  
+Alley Cat 
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
