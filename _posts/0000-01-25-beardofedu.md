@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "The Stomp - A New Dance Move!"
 ---
 
 Stomping bugs in our repo! :bug: 
