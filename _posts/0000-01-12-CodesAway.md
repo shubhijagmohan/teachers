@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to @CodesAway slide!"
 ---
 
 Rainbow blue. Love the eyes!
