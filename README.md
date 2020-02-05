@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers at TRS
 
 - Class Date: Feb 5th, 2020
 - Facilitator: @beardofedu
